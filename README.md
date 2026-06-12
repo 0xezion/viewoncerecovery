@@ -1,5 +1,6 @@
 # viewoncerecovery
 Trabalho de conclusão de curso da faculdade de Tecnologia de Segurança em informação
+<br></br>
 Um agradecimento à minha mãe que nunca desistiu da minha capacidade, e aos verdadeiros amigos que me auxiliaram nessa jornada contra a famosa, e querida síndrome do impostor. Um salve especial ao engenheiro Paulo da Petrobrás, e psicóloga Thais, ao programador Rafael Misael, ao Dr. Pedro Lourenço, ao amigo de longas datas e grafiteiro Rato,aos mestres que me ajudaram a educar minha mediunidade: Arnaldo, Carlos Alberto, Katia, Ana, Julio,Elaine, e todos amigos do CEFE/CEIR, à senhorita Julia Horfig, ao camarada Victor Cavalcante,ao poeta, cantor e palhaço Sergio Christo vulgo V3sp3ro e todos e todas que sempre fortaleceram minha caminhada, minha eterna gratidão!
 
 Sejam bem vindos camaradas!
