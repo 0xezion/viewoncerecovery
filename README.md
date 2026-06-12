@@ -1,8 +1,10 @@
 # viewoncerecovery
 Trabalho de conclusão de curso da faculdade de Tecnologia de Segurança em informação
+Um agradecimento à minha mãe que nunca desistiu da minha capacidade, e aos verdadeiros amigos que me auxiliaram nessa jornada contra a famosa, e querida síndrome do impostor. Um salve especial ao engenheiro Paulo da Petrobrás, ao programador Rafael Misael, ao Dr. Pedro Lourenço, ao amigo de longas datas e grafiteiro Rato, às senhoritas Thais, Julia Horfig, ao camarada Victor Cavalcante, e todos e todas que sempre fortaleceram minha caminhada, minha eterna gratidão!
 
 Sejam bem vindos camaradas!
-Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias.
+Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, na versão antiga criada pelos mestres Daniel Avilla e Ibsen Maciel, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias para outros dispositivos.
+
 Apesar das ameaças de pessoas que não entendem o que faço, aqui do prédio, seguimos estudando e colocando em prática o conhecimento aberto.
 
 A finalidade é uma só, auxiliar as forças de segurança a prender criminosos, pedófilos, assassinos e faccionados que continuam a ameaçar nossa soberania nacional.
@@ -10,7 +12,7 @@ A finalidade é uma só, auxiliar as forças de segurança a prender criminosos,
 O script atualizado vou postar no dia 02/07, aqui vcs podem ver uma prévia:
 <img width="1301" height="495" alt="image" src="https://github.com/user-attachments/assets/3862e4d6-6f28-43da-ba32-f56148d6f80a" />
 
- O atualizado possue atualizações de recuperação de legenda de mídia de visualização única, independente do status, características se a mensagem foi enviada a um ou vários contatos, e ainda estou estudando, o que faz ela realmente se tornar state1 o grande problema atual que muitos ainda não conseguem recuperar!
+ O atualizado possui atualizações de recuperação de legenda de mídia de visualização única, independente do status, características se a mensagem foi enviada a um ou vários contatos, e ainda estou estudando, o que faz ela realmente se tornar state1 o grande problema atual que muitos ainda não conseguem recuperar!
 <img width="1282" height="343" alt="image" src="https://github.com/user-attachments/assets/1016a8bb-2b32-4e3b-adda-51b12aa9bc5d" />
 
 Para inicio de conversa tudo isso só foi possivel por causa de uma pessoa que tb deve ter passado por alguns bocados, o policial civil Daniel Avilla, que forneceu a ferramenta dele de forma gratuita. Um salve aos mestres desconhecidos, que ajudaram ele a criar isso tambem, segue o trampo dele lá, ele é o real autor dessas ferramentas, nós apenas estamos ajudando.
