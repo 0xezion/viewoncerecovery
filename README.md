@@ -11,5 +11,9 @@ Valeu professor!
 Seguimos.
 <img width="960" height="540" alt="Apresentação - Técnica" src="https://github.com/user-attachments/assets/ddddcf1e-f8bf-407b-849f-94d739f506d2" />
 
+<img width="960" height="540" alt="Apresentação - Técnica (1)" src="https://github.com/user-attachments/assets/19d6c147-c709-4cc0-833b-f1925b543763" />
 
+Antes de começarmos essa nota técnica e ética faz todo sentido de divulgar pra não nos metermos em problemas:
+<img width="960" height="540" alt="Apresentação -  Empresa" src="https://github.com/user-attachments/assets/2e29d5d5-69f3-4cb6-ad47-83784bfdcb55" />
 
+Quando terminar minha apresentação divulgo o resto, um abraço!
