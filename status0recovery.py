@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
-
+#PRIMEIRO SCRIPT - DESENVOLVIDO PELO AVILLA - O NOSSO ESTÁ UM POUCO MELHOR POIS TRAZ MAIS INFORMAÇÕES ACERCA DO RELATORIO PRODUZIDO
 import sqlite3
 import os
 import requests
