@@ -25,7 +25,7 @@ Seguimos.
 
 
 
-Antes de começarmos essa nota técnica e ética faz todo sentido de divulgar pra não nos metermos em problemas:
+Antes de começarmos, essa nota técnica e ética faz todo sentido de divulgar, pra não nos metermos em problemas:
 <img width="960" height="540" alt="Apresentação -  Empresa" src="https://github.com/user-attachments/assets/2e29d5d5-69f3-4cb6-ad47-83784bfdcb55" />
 
 Sobre o Avilla Forensics: 
