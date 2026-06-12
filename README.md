@@ -2,7 +2,8 @@
 Trabalho de conclusão de curso da faculdade de Tecnologia de Segurança em informação
 
 Sejam bem vindos camaradas!
-Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única. Apesar das ameaças de pessoas que não entendem o que faço, aqui do prédio, seguimos estudando e colocando em prática o conhecimento aberto.
+Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias.
+Apesar das ameaças de pessoas que não entendem o que faço, aqui do prédio, seguimos estudando e colocando em prática o conhecimento aberto.
 
 A finalidade é uma só, auxiliar as forças de segurança a prender criminosos, pedófilos, assassinos e faccionados que continuam a ameaçar nossa soberania nacional.
 
