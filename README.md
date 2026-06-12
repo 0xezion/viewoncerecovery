@@ -7,6 +7,9 @@ Apesar das ameaças de pessoas que não entendem o que faço, aqui do prédio, s
 
 A finalidade é uma só, auxiliar as forças de segurança a prender criminosos, pedófilos, assassinos e faccionados que continuam a ameaçar nossa soberania nacional.
 
+O script atualizado vou postar no dia 02/07, e possuem atualizações de recuperação de legenda de mídia de visualização única, independente do status, características se a mensagem foi enviada a um ou vários contatos, e ainda estou estudando, o que faz ela realmente se tornar state1 o grande problema atual que muitos ainda não conseguem recuperar!
+<img width="1282" height="343" alt="image" src="https://github.com/user-attachments/assets/1016a8bb-2b32-4e3b-adda-51b12aa9bc5d" />
+
 Para inicio de conversa tudo isso só foi possivel por causa de uma pessoa que tb deve ter passado por alguns bocados, o policial civil Daniel Avilla, que forneceu a ferramenta dele de forma gratuita. Um salve aos mestres desconhecidos, que ajudaram ele a criar isso tambem, segue o trampo dele lá, ele é o real autor dessas ferramentas, nós apenas estamos ajudando.
 https://github.com/AvillaDaniel/AvillaForensics
 Valeu professor!
