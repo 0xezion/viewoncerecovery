@@ -35,4 +35,29 @@ Noticias do Avilla:
 Nossa contribuição:
 <img width="960" height="540" alt="Apresentação -  Empresa (3)" src="https://github.com/user-attachments/assets/e5a02fc7-a871-4042-8e6f-45f8a1375d09" />
 
+ Metodologia de Extração e aquisição de msgstore.db descriptografado:
+<img width="960" height="540" alt="Apresentação - Técnica (3)" src="https://github.com/user-attachments/assets/4d4f5c79-464b-4043-9c21-0fe10cf0d3f9" />
+
+Termos necessários de compreensão de estrutura criptográfica do Whatsapp:
+<img width="960" height="540" alt="Apresentação - Técnica (4)" src="https://github.com/user-attachments/assets/bbfd49d5-9c50-4199-9190-d1484a941455" />
+
+Da anatomia do link  da CDN do Whatsapp:
+<img width="960" height="540" alt="Apresentação - Técnica (5)" src="https://github.com/user-attachments/assets/ee0750fa-af8f-4880-89ef-f773e1c443d2" />
+
+ Visualização e explicação:
+<img width="960" height="540" alt="Apresentação - Técnica (6)" src="https://github.com/user-attachments/assets/2321cefd-5886-409a-8912-128a50da009e" />
+
+Termos necessários de compreensão:
+<img width="960" height="540" alt="Apresentação - Técnica (7)" src="https://github.com/user-attachments/assets/088af6d0-a162-4fa1-9c90-833b0a8f49e1" />
+
+Teste strings sem fins maliciosos:
+<img width="960" height="540" alt="Apresentação - Técnica (8)" src="https://github.com/user-attachments/assets/ae2c110a-1dd5-44fc-9002-b27bbb76d812" />
+
+Validação de nome real de mídia, para defesa não desvalidar:
+
+<img width="960" height="540" alt="Apresentação - Técnica (9)" src="https://github.com/user-attachments/assets/1f6ea916-c676-4b0f-aa7b-dea726699c8f" />
+
+
+
+ 
 Quando terminar minha apresentação divulgo o resto, um abraço!
