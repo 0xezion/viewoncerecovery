@@ -71,6 +71,16 @@ Do path ter sido excluido dos áudios no Whatsapp Business:
 Da explicação dos status de visualização única:
 <img width="960" height="540" alt="Apresentação - Técnica (15)" src="https://github.com/user-attachments/assets/f38a6175-8886-4ebf-ab94-863aa96d456e" />
 
+Validação de Media_Key de Status 0 :
+<img width="960" height="540" alt="Slide18" src="https://github.com/user-attachments/assets/ff755d49-fd11-4e6f-89b0-661dbf70b64c" />
+
+Validação no msgstore:
+<img width="960" height="540" alt="Slide19" src="https://github.com/user-attachments/assets/8b93dc08-14d6-4afd-bcad-9b5ed8b7b03d" />
+
+Status 0 para 1 sem key:
+<img width="960" height="540" alt="Slide22" src="https://github.com/user-attachments/assets/cc29252c-1e7a-4070-adfd-676efd62948b" />
+
+
 Da hipótese do status 1 :
 <img width="960" height="540" alt="Apresentação - Técnica (16)" src="https://github.com/user-attachments/assets/4278a4d5-8101-4f7d-95ff-735edd7fbc1d" />
 
