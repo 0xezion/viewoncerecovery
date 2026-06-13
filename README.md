@@ -64,7 +64,45 @@ Validação de Dados:
 <img width="960" height="540" alt="Apresentação - Técnica (12)" src="https://github.com/user-attachments/assets/429c2ee0-2c65-42d7-bc1a-309d083379c4" />
 
 Do path ter sido excluido dos áudios no Whatsapp Business:
-<img width="960" height="540" alt="Apresentação - Técnica (12)" src="https://github.com/user-attachments/assets/8c882099-3d9c-4f8a-a0b7-0026ebe94a31" />
+<img width="960" height="540" alt="Apresentação - Técnica (13)" src="https://github.com/user-attachments/assets/3a14c6b0-01c6-4c56-b0b2-68d8b21ac515" />
+
+<img width="960" height="540" alt="Apresentação - Técnica (14)" src="https://github.com/user-attachments/assets/81176a46-c2ef-4486-9979-24143f6d4d1b" />
+
+Da explicação dos status de visualização única:
+<img width="960" height="540" alt="Apresentação - Técnica (15)" src="https://github.com/user-attachments/assets/f38a6175-8886-4ebf-ab94-863aa96d456e" />
+
+Da hipótese do status 1 :
+<img width="960" height="540" alt="Apresentação - Técnica (16)" src="https://github.com/user-attachments/assets/4278a4d5-8101-4f7d-95ff-735edd7fbc1d" />
+
+Mais informações do status 1: 
+<img width="960" height="540" alt="Apresentação - Técnica (17)" src="https://github.com/user-attachments/assets/c94e853c-99be-4a00-a3bf-1c00480c26ae" />
+
+Da hipótese do status 2 : 
+<img width="960" height="540" alt="Apresentação - Técnica (18)" src="https://github.com/user-attachments/assets/e7e3f176-fed0-4900-8658-33b677f8b998" />
+
+Da atualização do Script:
+<img width="960" height="540" alt="Apresentação - Técnica (19)" src="https://github.com/user-attachments/assets/e7ff2354-d411-4175-a8e9-5c379779128e" />
+
+Testes de auditoria:
+<img width="960" height="540" alt="Apresentação - Técnica (20)" src="https://github.com/user-attachments/assets/4d96ceba-5a1f-4570-ac4c-907adf0f7d82" />
+
+2 modelo de teste de auditoria:
+<img width="960" height="540" alt="Apresentação - Técnica (21)" src="https://github.com/user-attachments/assets/79b4abdb-56e5-4706-a5f8-058d292201a7" />
+
+Respostas conhecidas da CDN:
+<img width="960" height="540" alt="Apresentação - Técnica (22)" src="https://github.com/user-attachments/assets/f9de3f31-47a3-41f7-919d-172b03af1377" />
+
+Modo Auditoria - 3 Modelo:
+<img width="960" height="540" alt="Apresentação - Técnica (23)" src="https://github.com/user-attachments/assets/5f1e4a84-f5c0-43cb-bbee-92f514710e24" />
+
+<img width="960" height="540" alt="Apresentação - Técnica (24)" src="https://github.com/user-attachments/assets/730c6bdf-13c7-491f-8e47-26e9d887fb28" />
+
+Novo método de validação de conexão:
+<img width="960" height="540" alt="Apresentação - Técnica (25)" src="https://github.com/user-attachments/assets/478d941f-1ae0-4400-a20e-20b502429e47" />
+
+Recuperação de legenda em mídias de visualização única:
+<img width="960" height="540" alt="Apresentação - Técnica (26)" src="https://github.com/user-attachments/assets/1060db97-523e-4915-9ff9-434395415f04" />
+
 
 
 
