@@ -57,6 +57,18 @@ Validação de nome real de mídia, para defesa não desvalidar:
 
 <img width="960" height="540" alt="Apresentação - Técnica (9)" src="https://github.com/user-attachments/assets/1f6ea916-c676-4b0f-aa7b-dea726699c8f" />
 
+Validação de Dados:
+<img width="960" height="540" alt="Apresentação - Técnica (11)" src="https://github.com/user-attachments/assets/8adca028-cf36-4833-acab-62fb3815ad64" />
+<img width="960" height="540" alt="Apresentação - Técnica (10)" src="https://github.com/user-attachments/assets/eeba5953-33e5-4309-97f0-d2d636d63d8d" />
+
+<img width="960" height="540" alt="Apresentação - Técnica (12)" src="https://github.com/user-attachments/assets/429c2ee0-2c65-42d7-bc1a-309d083379c4" />
+
+Do path ter sido excluido dos áudios no Whatsapp Business:
+<img width="960" height="540" alt="Apresentação - Técnica (12)" src="https://github.com/user-attachments/assets/8c882099-3d9c-4f8a-a0b7-0026ebe94a31" />
+
+
+
+
 
 
  
