@@ -4,11 +4,11 @@ Trabalho de conclusão de curso da faculdade de Tecnologia de Segurança em info
 Um agradecimento à minha mãe que nunca desistiu da minha capacidade, e aos verdadeiros amigos que me auxiliaram nessa jornada contra a famosa, e querida síndrome do impostor. Um salve especial ao engenheiro Paulo da Petrobrás, e psicóloga Thais, ao poeta, cantor e palhaço Sergio Christo vulgo V3sp3ro que espalha esperança em suas canções e atos, ao programador Rafael Misael, ao Dr. Pedro Lourenço, ao amigo de longas datas e grafiteiro Rato,aos mestres que me ajudaram a educar minha mediunidade: Arnaldo, Carlos Alberto, Katia, Ana, Julio,Elaine, e todos amigos do CEFE/CEIR, à Julia Horfig, ao camarada Victor Cavalcante, e todos e todas que sempre fortaleceram minha caminhada, minha eterna gratidão!
 
 Sejam bem vindos camaradas!
-Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, na versão antiga criada pelos mestres Daniel Avilla e Ibsen Maciel, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias para outros dispositivos.
+Aqui vcs vão encontrar a pesquisa que estou realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, na versão antiga criada por Daniel Avilla e Ibsen Maciel, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias para outros dispositivos.
 
 Apesar das ameaças de pessoas que não entendem o que faço, aqui do prédio, seguimos estudando e colocando em prática o conhecimento aberto.
 
-A finalidade é uma só, auxiliar as forças de segurança a prender criminosos, pedófilos, assassinos e faccionados que continuam a ameaçar nossa soberania nacional.
+
 
 O script atualizado vou postar no dia 02/07, aqui vcs podem ver uma prévia:
 <img width="1301" height="495" alt="image" src="https://github.com/user-attachments/assets/3862e4d6-6f28-43da-ba32-f56148d6f80a" />
