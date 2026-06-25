@@ -120,4 +120,4 @@ Recuperação de legenda em mídias de visualização única:
 
 
  
-Quando terminar minha apresentação divulgo o resto, um abraço!
+Divulgado script final recovery1e0.py
