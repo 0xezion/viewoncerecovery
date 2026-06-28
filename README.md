@@ -1,9 +1,9 @@
 # viewoncerecovery
 Trabalho de conclusão de curso da faculdade de Tecnologia de Segurança em informação
 <br></br>
-Por : Filipe Augusto Pereira Damaceno e Renato Dourado Teixeira
+Por : Filipe Augusto Pereira Damaceno e Reno
 
-Um agradecimento à minha mãe que nunca desistiu da minha capacidade, e aos verdadeiros amigos que me auxiliaram nessa jornada contra a famosa, e querida síndrome do impostor. Um salve especial ao engenheiro Paulo da Petrobrás, e psicóloga Thais, ao poeta, cantor e palhaço Sergio Christo vulgo V3sp3ro que espalha esperança em suas canções e atos, ao programador Rafael Misael, ao Dr. Pedro Lourenço, ao amigo de longas datas e grafiteiro Rato,aos mestres que me ajudaram a educar minha mediunidade: Arnaldo, Carlos Alberto, Katia, Ana, Julio,Elaine, e todos amigos do CEFE/CEIR, à Julia Horfig, ao camarada Victor Cavalcante, e todos e todas que sempre fortaleceram minha caminhada, minha eterna gratidão!
+Reno: Um agradecimento à minha mãe que nunca desistiu da minha capacidade, e aos verdadeiros amigos que me auxiliaram nessa jornada contra a famosa, e querida síndrome do impostor. Um salve especial ao engenheiro Paulo da Petrobrás, e psicóloga Thais, ao poeta, cantor e palhaço Sergio Christo vulgo V3sp3ro que espalha esperança em suas canções e atos, ao programador Rafael Misael, ao Dr. Pedro Lourenço, ao amigo de longas datas e grafiteiro Rato,aos mestres que me ajudaram a educar minha mediunidade: Arnaldo, Carlos Alberto, Katia, Ana, Julio,Elaine, e todos amigos do CEFE/CEIR, à Julia Horfig, ao camarada Victor Cavalcante, e todos e todas que sempre fortaleceram minha caminhada, minha eterna gratidão!
 
 Sejam bem vindos
 Aqui vcs vão encontrar a pesquisa que estamos realizando para recuperar mensagens de visualização Única do Whatsapp. O script disponível por enquanto é apenas para android, na versão antiga criada por Daniel Avilla e Ibsen Maciel, mas as modificações podem ser feitas que irão encontrar as melhores formas para recuperação de mídias para outros dispositivos.
